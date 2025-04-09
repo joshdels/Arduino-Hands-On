@@ -1,0 +1,10 @@
+pins assigns
+led1 = 13
+led2 = 12
+led3 = 11
+buzzer = 10
+
+this is my test and exercises for arduino stuffs
+my stress reliever
+
+09/04/2025
